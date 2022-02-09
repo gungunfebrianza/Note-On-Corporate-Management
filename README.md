@@ -29,6 +29,10 @@ Ketika kita bisa menyelesaikan  3 permasalahan di atas maka kita bisa memonetisa
 
 Sewaktu-waktu sebuah **value** bisa jadi sulit diukur dalam perspektif **users** atau **stakeholder**, wajar karena pengetahuan kita terbatas. Ini adalah sinyal untuk melakukan evaluasi dan diskusi untuk menghindari **lack of input** sebelum melakukan penilaian atau membuat keputusan.
 
+Untuk bisa memahami **values** untuk **users** atau **stakeholder** perlu energi fokus yang besar, jika tidak difahami dan dicatat dengan **comprehend** maka organisasi tidak akan pernah bisa mendapatkan **values** yang menjadi jantung informasi untuk kelangsungan hidup perusahaan.
+
+Kebanyakan organisasi yang gagal, tidak memfokuskan energi mereka untuk memahami **users** atau **stakeholders** melainkan membangun sebuah jalan pintas yang semu untuk mengukur sebuah **value**. Terdapat **underestimation** terhadap **values** dengan cara mengukurnya kedalam sebuah **metrics** yang berbasis **outputs** dan **features**, bukan lagi **outcomes** dan **values**.
+
 
 
 # Roxi Cases
