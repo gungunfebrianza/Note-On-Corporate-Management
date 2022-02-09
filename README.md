@@ -25,13 +25,24 @@ Kegagalan suatu organisasi dimulai saat mereka mulai kehilangan :
 
 - 
 
+<img src="assets/ValueExchangeSystem1.PNG" style="zoom:95%;" />
+
 Ketika kita bisa menyelesaikan  3 permasalahan di atas maka kita bisa memonetisasinya untuk kelangsungan hidup sebuah organisasi. Timbal balik yang didapatkan bisa berupa uang pendapatan organisasi, data penting, **knowledge capital**, **networking** dan **acknowledgement** yang bisa menjadi bahan bakar untuk membangun **sustainable business**.
 
 Sewaktu-waktu sebuah **value** bisa jadi sulit diukur dalam perspektif **users** atau **stakeholder**, wajar karena pengetahuan kita terbatas. Ini adalah sinyal untuk melakukan evaluasi dan diskusi untuk menghindari **lack of input** sebelum melakukan penilaian atau membuat keputusan.
 
 Untuk bisa memahami **values** untuk **users** atau **stakeholder** perlu energi fokus yang besar, jika tidak difahami dan dicatat dengan **comprehend** maka organisasi tidak akan pernah bisa mendapatkan **values** yang menjadi jantung informasi untuk kelangsungan hidup perusahaan.
 
-Kebanyakan organisasi yang gagal, tidak memfokuskan energi mereka untuk memahami **users** atau **stakeholders** melainkan membangun sebuah jalan pintas yang semu untuk mengukur sebuah **value**. Terdapat **underestimation** terhadap **values** dengan cara mengukurnya kedalam sebuah **metrics** yang berbasis **outputs** dan **features**, bukan lagi **outcomes** dan **values**.
+Kebanyakan organisasi yang gagal, tidak memfokuskan energi mereka untuk memahami **users** atau **stakeholders** melainkan membangun sebuah jalan pintas yang semu untuk mengukur sebuah **value**. Terdapat **underestimation** terhadap **values** dengan cara mengukurnya kedalam sebuah **metrics** yang berbasis **outputs** dan **features**, bukan lagi **outcomes** dan **values**. Contoh :
+
+1. **Developer** mendapatkan reward berdasarkan jumlah fungsi dan kode yang telah mereka tulis.
+2. **Designer** mendapatkan reward berdasarkan interaksi dan **design** yang menarik.
+3. **Product Manager** mendapatkan **reward** berdasarkan spesifikasi dokumen.
+4. Dan **team** mendapatkan **reward** berdasarkan jumlah **features** yang telah di produksi.
+
+Ini adalah contoh the bullshit job untuk organisasi, merugikan organisasi namun telah meresap sangat signifikan dalam kegiatan ekonomi hari ini.
+
+<img src="assets/ValueExchangeSystem2.PNG" style="zoom:95%;" />
 
 
 
