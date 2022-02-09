@@ -25,7 +25,9 @@ Kegagalan suatu organisasi dimulai saat mereka mulai kehilangan :
 
 - 
 
-Ketika kita bisa menyelesaikan  3 permasalahan di atas maka kita bisa memonetisasinya untuk kelangsungan hidup sebuah organisasi.
+Ketika kita bisa menyelesaikan  3 permasalahan di atas maka kita bisa memonetisasinya untuk kelangsungan hidup sebuah organisasi. Timbal balik yang didapatkan bisa berupa uang pendapatan organisasi, data penting, **knowledge capital**, **networking** dan **acknowledgement** yang bisa menjadi bahan bakar untuk membangun **sustainable business**.
+
+Sewaktu-waktu sebuah **value** bisa jadi sulit diukur dalam perspektif **users** atau **stakeholder**, wajar karena pengetahuan kita terbatas. Ini adalah sinyal untuk melakukan evaluasi dan diskusi untuk menghindari **lack of input** sebelum melakukan penilaian atau membuat keputusan.
 
 
 
@@ -41,12 +43,15 @@ Ketika kita bisa menyelesaikan  3 permasalahan di atas maka kita bisa memonetisa
    - Kalkulasi dan sharing data yang cukup presisi antar departemen (Muller, Jejakin, Roxi)
    - Kesepakatan terkait data yang akan digunakan telah dikonfirmasi antar departemen (Muller, Jejakin, Roxi)
    - Data yang valid dan comprehend membantu menyusun keputusan strategis disetiap departemen termasuk Roxi
-   - 
+   - Metodologi yang benar untuk pembuatan token, sampai pipeline akhir penukaran voucher untuk carbon credit.
+   - Proses Listing yang smooth dan post-listing token yang terkendali
 
 ## My View For Roxi Users
 
 1. **What is Important ?**
-   - 
-   - 
-2. **What Value they want to produce ?**
-   - 
+   - Content Marketing (Automation Tools, Content Creator)
+   - Community Development
+2. **What Value Creation for them ?**
+   - Untuk Investor Privat seperti Carbon Emitter/Broker mereka menginginkan jaminan untuk mendapatkan karbon dengan harga yang lebih lebih murah.
+   - Untuk Investor Publik seperti retail mereka menginginkan token yang bisa memberikan capital gain melalui project yang menarik dan kredibel.
+   - Untuk Investor Publik seperti retail mereka menginginkan token dengan utility yang bisa menguntungkan mereka dari sisi ekonomi. Sehingga diperlukan insentif untuk setiap pemegang token roxi 
